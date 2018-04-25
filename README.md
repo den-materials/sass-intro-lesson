@@ -26,24 +26,6 @@ Sass is a superset of CSS that adds power and elegance to the basic language. Yo
 <!--9:58 after intro talk WDI4 -->
 <!--11:25 10 minutes -->
 
-## You Do: Explore Sass Examples
-
-Explore these Codepens. When you open them, you'll notice that the CSS column has a header of `CSS (SCSS)`. This means that you're currently looking at Sass. Compare this to what you see when you click on the drop-down arrow at the top-right of the column and click "View Compiled CSS". Now you're looking at the CSS after it's been compiled from Sass.
-
-Some things to consider...
-* In what ways does Sass look different than Vanilla CSS?
-* How might writing out Sass be easier / faster than writing out vanilla CSS?
-
-#### Sass Examples
-
-- [BAMSAY](http://codepen.io/jshawl/pen/cLJal)
-- [Boxes](http://codepen.io/jshawl/pen/nHDLz)
-- [Bullseye](http://codepen.io/jshawl/pen/wpeit)
-- [A Button](http://codepen.io/jshawl/pen/bcjyH)
-- [Forest](http://codepen.io/jshawl/pen/cJjIm)
-- [Space Invader](http://codepen.io/jshawl/pen/cnyrJ)
-
-> We don't expect you to understand exactly what the Sass is doing in these examples. Just think about it on a higher level.
 ### I. Variables
 
 #### Questions
@@ -250,3 +232,20 @@ gulp.task('default', ['serve']);
 
 You can stop your Python Simple Server now - `Browser Sync` is running the show now! Restart `gulp` and watch it go!
 <!-- WDI6 3:52 turning over to devs -->
+
+## You Do: Explore Sass Examples
+
+Explore these Codepens. When you open them, you'll notice that the CSS column has a header of `CSS (SCSS)`. This means that you're currently looking at Sass. Compare this to what you see when you click on the drop-down arrow at the top-right of the column and click "View Compiled CSS". Now you're looking at the CSS after it's been compiled from Sass.
+
+Some things to consider...
+* In what ways does Sass look different than Vanilla CSS?
+* How might writing out Sass be easier / faster than writing out vanilla CSS?
+
+#### Sass Examples
+
+- [BAMSAY](http://codepen.io/jshawl/pen/cLJal)
+- [Boxes](http://codepen.io/jshawl/pen/nHDLz)
+- [Bullseye](http://codepen.io/jshawl/pen/wpeit)
+- [A Button](http://codepen.io/jshawl/pen/bcjyH)
+- [Forest](http://codepen.io/jshawl/pen/cJjIm)
+- [Space Invader](http://codepen.io/jshawl/pen/cnyrJ)
