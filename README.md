@@ -142,7 +142,7 @@ We have starter code that gives us a nice little front end to experiment with. L
 
 Hopefully this step isn’t too distant a memory - but in case you’ve forgotten, `cd` into the `app` folder and run `npm init -y`.
 
-### 2. Run your Angular project
+### 2. Practice with your Racer Game or Project 1
 
 Start a Python Simple Server to run your project:
 `python -m SimpleHTTPServer`
